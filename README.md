@@ -1,1 +1,6 @@
 # Image-classifier-with-python-and-tensorflow
+
+This code is a tool for visualizing the accuracy of a machine learning model in classifying images into different categories. It uses the test dataset and the model's predictions to generate a grid of images, where each image is labeled with both the real category and the predicted category by the model. If the prediction is correct, the predicted label is shown in blue, and if it is incorrect, it is shown in red. Additionally, a bar chart is generated to display the probability predictions for each category. This code uses the NumPy and Matplotlib libraries for data visualization.
+
+Clasificador de imágenes con Python y TensorFlow
+Este código es una herramienta para visualizar la precisión de un modelo de aprendizaje automático en la clasificación de imágenes en diferentes categorías. Utiliza el conjunto de datos de pruebas y las predicciones del modelo para generar una cuadrícula de imágenes, donde cada imagen se etiqueta con la categoría real y la categoría predicha por el modelo. Si la predicción es correcta, la etiqueta predicha se muestra en azul y si es incorrecta, se muestra en rojo. Además, se genera un gráfico de barras para mostrar las predicciones de probabilidad para cada categoría. Este código utiliza la biblioteca NumPy y Matplotlib para la visualización de datos.
